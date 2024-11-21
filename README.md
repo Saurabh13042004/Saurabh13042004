@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in **Chitkara University**
 
-- 🌱 I’m currently **3rd B.Tech(CSE) Student**
+- 🌱 I’m currently **4th B.Tech(CSE) Student**
 
 - 🤝 I’m intrested in **Web & App Development**
 
